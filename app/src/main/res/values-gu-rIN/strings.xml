@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JUST JAVA</string>
+    <string name="quantity">"જથ્થો "</string>
+    <string name="value">0</string>
+    <string name="button">ઓર્ડર</string>
+    <string name="price">ઓર્ડર સારાંશ</string>
+    <string name="topping1">ચાબૂક મારી ક્રીમ</string>
+    <string name="topping2">ચોકલેટ</string>
+    <string name="enter_your_name">તમારું નામ દાખલ કરો</string>
+    <string name="toppings">" ટોપિંગ"</string>
+</resources>
